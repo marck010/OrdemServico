@@ -1,0 +1,15 @@
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.pdb
+E:\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.dll
+E:\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.pdb
+E:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.csprojResolveAssemblyReference.cache
+E:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.dll
+E:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.csprojResolveAssemblyReference.cache
+F:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.dll
+F:\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.dll
+F:\CadastroDeMembros\CadastroDeMembros.Dominio\bin\Debug\CadastroDeMembros.Dominio.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Dominio\obj\Debug\CadastroDeMembros.Dominio.pdb

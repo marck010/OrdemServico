@@ -1,0 +1,7 @@
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\bin\Debug\OrdemServico.Dominio.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\bin\Debug\OrdemServico.Dominio.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\obj\Debug\OrdemServico.Dominio.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\obj\Debug\OrdemServico.Dominio.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\obj\Debug\OrdemServico.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\obj\Debug\Interop.VBIDE.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico..Dominio\obj\Debug\OrdemServico.Dominio.csproj.ResolveComReference.cache
