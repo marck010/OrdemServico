@@ -1,0 +1,10 @@
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.exe.config
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.exe
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.pdb
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.csprojResolveAssemblyReference.cache
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Properties.Resources.resources
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.csproj.GenerateResource.Cache
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.exe
+c:\users\marcos\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Cadastro.resources
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.config

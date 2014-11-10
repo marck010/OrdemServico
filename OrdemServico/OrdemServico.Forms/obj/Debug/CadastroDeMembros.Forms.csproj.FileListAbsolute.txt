@@ -1,0 +1,85 @@
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.config
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Cadastro.resources
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.Properties.Resources.resources
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csproj.GenerateResource.Cache
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.xml
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.xml
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.config
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.pdb
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.pdb
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.pdb
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.pdb
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.xml
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.xml
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csprojResolveAssemblyReference.cache
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Cadastro.resources
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.Properties.Resources.resources
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csproj.GenerateResource.Cache
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Pesquisa.resources
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.config
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.pdb
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.pdb
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Dominio.pdb
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\InjetorDependencia.pdb
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Windsor.xml
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\Castle.Core.xml
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csprojResolveAssemblyReference.cache
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Pesquisa.resources
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.form_Cadastro.resources
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.Properties.Resources.resources
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.csproj.GenerateResource.Cache
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.manifest
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.application
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe.manifest
+F:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.application
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.manifest
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.application
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe.manifest
+E:\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.application
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.xml
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServer.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\System.Data.SqlServerCe.dll
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServer.xml
+F:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServer.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\System.Data.SqlServerCe.dll
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.xml
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServer.xml
+E:\CadastroDeMembros\CadastroDeMembros\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\CadastroDeMembros\CadastroDeMembros\bin\Debug\CadastroDeMembros.Forms.exe.config
+C:\Users\MARCOS\Documents\MARCOS\Projetos\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.exe
+C:\Users\MARCOS\Documents\MARCOS\Projetos\CadastroDeMembros\CadastroDeMembros\obj\Debug\CadastroDeMembros.Forms.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\CadastroDeMembros\CadastroDeMembros\bin\Debug\OrdemServico.Forms.exe.config
