@@ -1,0 +1,15 @@
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\OrdemServico.InjetorDependencia.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\OrdemServico.InjetorDependencia.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\Castle.Core.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\Castle.Windsor.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\OrdemServico.Dominio.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\OrdemServico.Dominio.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\Castle.Core.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\Castle.Windsor.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\obj\Debug\OrdemServico.InjetorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\obj\Debug\OrdemServico.InjetorDependencia.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.InjetorDependencia\obj\Debug\OrdemServico.InjetorDependencia.pdb

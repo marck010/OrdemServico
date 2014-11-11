@@ -1,0 +1,43 @@
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.xml
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.xml
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.pdb
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.pdb
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.xml
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.xml
+E:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.csprojResolveAssemblyReference.cache
+E:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.dll
+E:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.pdb
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\InjetorDependencia.pdb
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Dominio.pdb
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Core.xml
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\Castle.Windsor.xml
+F:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.csprojResolveAssemblyReference.cache
+F:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.dll
+F:\CadastroDeMembros\InjetorDependencia\obj\Debug\InjetorDependencia.pdb
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\EntityFramework.dll
+F:\CadastroDeMembros\InjetorDependencia\bin\Debug\EntityFramework.xml
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\EntityFramework.dll
+E:\CadastroDeMembros\InjetorDependencia\bin\Debug\EntityFramework.xml
