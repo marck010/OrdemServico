@@ -1,0 +1,42 @@
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll.config
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.pdb
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\documents\visual studio 2012\Projects\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.pdb
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll.config
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.pdb
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.xml
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.xml
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.csprojResolveAssemblyReference.cache
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll.config
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\CadastroDeMembros.Dominio.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.xml
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServer.xml
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.csprojResolveAssemblyReference.cache
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.pdb
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\System.Data.SqlServerCe.dll
+F:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\System.Data.SqlServerCe.dll
+E:\CadastroDeMembros\CadastroDeMembros.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.xml

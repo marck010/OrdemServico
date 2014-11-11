@@ -1,0 +1,17 @@
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll.config
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\OrdemServico.Dominio.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\OrdemServico.Dominio.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\obj\Debug\OrdemServico.Infraetrutura.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\obj\Debug\CadastroDeMembros.Infraetrutura.pdb
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\obj\Debug\Interop.VBIDE.dll
+C:\Users\MARCOS\Documents\MARCOS\Projetos\OrdemServico\OrdemServico.Infraetrutura\obj\Debug\OrdemServico.Infraetrutura.csproj.ResolveComReference.cache
